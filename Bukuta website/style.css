@@ -1,0 +1,6 @@
+/* Add a beautiful hover effect to all buttons and make navigation bar transparent */
+.card-img-top {
+  height: 350px;
+  object-fit: cover;
+  width: 100%;
+}
